@@ -479,7 +479,7 @@
       required: true
       relationship: null
 - description: null
-  label: "florida"
+  label: "Florida"
   name: "home_insurance_florida"
   sort: 1
   listed: true
