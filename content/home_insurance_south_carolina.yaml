@@ -1,0 +1,31 @@
+- id: "/home_insurance/south-carolina"
+  web:
+    metaDescription: "Hey, South Carolina, home insurance just got easier! Get the details on our customizable coverage here and then request a quote from Kin √"
+    metaTitle: "South Carolina Homeowners Insurance | Kin Insurance"
+    metaKeywords: null
+    metaLinkText: "South Carolina"
+    pathPart: "south-carolina"
+    path: "/home_insurance/south-carolina/"
+    parent: "/home_insurance/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "South Carolina Homeowners Insurance Guide"
+    sub_header: "See how easy it is to customize your South Carolina home insurance. Get a quote today!"
+    featured_image: "3-f894c98-m316dc"
+    is_feature_clipped: "1"
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: "<script type=\\\"application/ld+json\\\">\\n{\\n  \\\"@context\\\": \\\"https://schema.org\\\",\\n  \\\"@type\\\": \\\"FAQPage\\\",\\n  \\\"mainEntity\\\": [{\\n    \\\"@type\\\": \\\"Question\\\",\\n    \\\"name\\\": \\\"What is South Carolina homeowners insurance?\\\",\\n    \\\"acceptedAnswer\\\": {\\n      \\\"@type\\\": \\\"Answer\\\",\\n      \\\"text\\\": \\\"South Carolina homeowners insurance is a policy that protects your finances if you experience a loss as a homeowner.\\\"\\n    }\\n  },{\\n    \\\"@type\\\": \\\"Question\\\",\\n    \\\"name\\\": \\\"How much is homeowners insurance in South Carolina?\\\",\\n    \\\"acceptedAnswer\\\": {\\n      \\\"@type\\\": \\\"Answer\\\",\\n      \\\"text\\\": \\\"On average, South Carolinians pay $1,120 per year for home insurance when they work with Kin.\\\"\\n    }  \\n  },{\\n    \\\"@type\\\": \\\"Question\\\",\\n    \\\"name\\\": \\\"What does South Carolina home insurance cover?\\\",\\n    \\\"acceptedAnswer\\\": {\\n      \\\"@type\\\": \\\"Answer\\\",\\n      \\\"text\\\": \\\"South Carolina home insurance covers your dwelling, other structures on your property, and more.\\\"\\n    }\\n  },{\\n    \\\"@type\\\": \\\"Question\\\",\\n    \\\"name\\\": \\\"Is homeowners insurance required in South Carolina?\\\",\\n    \\\"acceptedAnswer\\\": {\\n      \\\"@type\\\": \\\"Answer\\\",\\n      \\\"text\\\": \\\"South Carolina home insurance is not required by law, but lenders often make coverage part of their requirements.\\\"\\n    }\\n  }]\\n}\\n</script>"
+    jump_nav: null
+    show_related_posts: "1"
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
+    body: ""

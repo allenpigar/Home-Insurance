@@ -1,0 +1,32 @@
+
+  - id: "/home_insurance/mississippi"
+    web:
+      metaDescription: "Hey, Mississippi, home insurance just got easier! √ Get the details on our customizable House & Property insurance here and then request a quote from Kin."
+      metaTitle: "Mississippi Home Insurance | Kin Insurance"
+      metaKeywords: null
+      metaLinkText: ""
+      pathPart: "mississippi"
+      path: "/home_insurance/mississippi/"
+      parent: "/home_insurance/"
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+    meta:
+      sort: null
+      listed: true
+    data:
+      sub_text: null
+      header_text: "Mississippi Homeowners Insurance from Kin"
+      sub_header: "Looking for home insurance in the Magnolia State? You've come to the right place."
+      featured_image: "3-f894c67-sw9n6x"
+      is_feature_clipped: "1"
+      featured_image_alt: "Row of homes on Mississippi's Gulf Coast"
+      featured_video: null
+      schemamarkup: "<script type=\\\"application/ld+json\\\">\\n{\\n  \\\"@context\\\": \\\"https://schema.org\\\",\\n  \\\"@type\\\": \\\"FAQPage\\\",\\n  \\\"mainEntity\\\": [{\\n    \\\"@type\\\": \\\"Question\\\",\\n    \\\"name\\\": \\\"What is Mississippi home insurance?\\\",\\n    \\\"acceptedAnswer\\\": {\\n      \\\"@type\\\": \\\"Answer\\\",\\n      \\\"text\\\": \\\"Mississippi homeowners insurance is a policy that provides financial protection in case your home is damaged by one of several covered perils.\\\"\\n    }\\n  },{\\n    \\\"@type\\\": \\\"Question\\\",\\n    \\\"name\\\": \\\"How much does Mississippi home insurance cost?\\\",\\n    \\\"acceptedAnswer\\\": {\\n      \\\"@type\\\": \\\"Answer\\\",\\n      \\\"text\\\": \\\"Premiums for Mississippi insurance vary based on several factors, such as the age, size, and condition of your home, but the average homeowner pays $1,622 per year.\\\"\\n    }  \\n  },{\\n    \\\"@type\\\": \\\"Question\\\",\\n    \\\"name\\\": \\\"Is Mississippi home insurance required by law?\\\",\\n    \\\"acceptedAnswer\\\": {\\n      \\\"@type\\\": \\\"Answer\\\",\\n      \\\"text\\\": \\\"State law does not require you to get Mississippi homeowners insurance, but you may have to get a policy to satisfy your mortgage company’s requirements.\\\"\\n    }\\n  }]\\n}\\n</script>"
+      jump_nav: null
+      show_related_posts: "1"
+      related_posts_1: null
+      related_posts_2: null
+      related_posts_3: null
+      body: ""
